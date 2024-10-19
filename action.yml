@@ -4,9 +4,9 @@ description: Greet someone
 
 inputs:
   who-to-greet:
-    description: Who to free
+    description: Who to greet
     required: true
-    deafult: Hello
+    deafult: "Hello"
 
 output:
   time:
